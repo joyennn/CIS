@@ -1,1 +1,1 @@
-# Continuous Interpretive Steering as a Probe of Scalar Diversity
+# Continuous Interpretive Steering for Scalar Diversity
